@@ -1,4 +1,4 @@
-## DESAFIO POKEMON COM CLASSE DART
+## DESAFIO POKEMON COM CLASSES'POO' COM DART
 
 Este é um projeto simples que demonstra como consumir uma API de Pokémon e criar uma classe em Dart para representar os dados retornados.
 
