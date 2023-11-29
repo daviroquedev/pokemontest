@@ -32,7 +32,7 @@ O projeto está estruturado da seguinte maneira:
 2. Certifique-se de ter o Dart SDK instalado.
 3. No terminal, navegue até o diretório raiz do projeto.
 4. Execute o comando `dart pub get` para baixar e instalar os pacotes necessários.
-5. Execute o arquivo `main.dart` no diretório `bin`.
+5. Execute o arquivo `main.dart` no diretório `bin`. Você pode utilizar  `dart run` no terminal.
 
 ### Contribuição
 
