@@ -34,6 +34,6 @@ O projeto está estruturado da seguinte maneira:
 4. Execute o comando `dart pub get` para baixar e instalar os pacotes necessários.
 5. Execute o arquivo `main.dart` no diretório `bin`. Você pode utilizar  `dart run` no terminal.
 
-### Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou um _pull request_ para melhorias, correções ou adição de novos recursos.
