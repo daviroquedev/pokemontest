@@ -1,5 +1,6 @@
 import '../routes/pokemon_api.dart';
 import '../models/pokemon_model.dart';
+import '../models/filmes_model.dart';
 
 void main() async {
   PokeAPI api = PokeAPI();
@@ -43,4 +44,8 @@ void main() async {
   print('ID do Pokemon: ${pokemon.id}');
   print('Nome do Pokemon: ${pokemon.name}');
   print(pokemon);
+
+  // classe Filmes 
+  final deusBrasileiro = Filmes(false,'../teste/test', 23, 'pt-br', 'Deus é brasileiro', 'deus é do brasil', 9.84,'../img/url/post', '10-02-2000', 'Deus é brasileiro', true, 9.33, 4993);
+  print(deusBrasileiro);
 }
