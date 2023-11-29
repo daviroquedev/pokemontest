@@ -1,4 +1,4 @@
-## DESAFIO POKEMON COM CLASSE DART
+## DESAFIO POKEMON COM CLASSES'POO' COM DART
 
 Este é um projeto simples que demonstra como consumir uma API de Pokémon e criar uma classe em Dart para representar os dados retornados.
 
@@ -32,8 +32,8 @@ O projeto está estruturado da seguinte maneira:
 2. Certifique-se de ter o Dart SDK instalado.
 3. No terminal, navegue até o diretório raiz do projeto.
 4. Execute o comando `dart pub get` para baixar e instalar os pacotes necessários.
-5. Execute o arquivo `main.dart` no diretório `bin`.
+5. Execute o arquivo `main.dart` no diretório `bin`. Você pode utilizar  `dart run` no terminal.
 
-### Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma _issue_ ou um _pull request_ para melhorias, correções ou adição de novos recursos.
