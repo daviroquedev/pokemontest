@@ -22,7 +22,7 @@ O objetivo deste projeto é utilizar Dart para fazer requisições a uma API de 
 
 O projeto está estruturado da seguinte maneira:
 
-- `bin/main.dart`: O arquivo principal do programa. Ele consome a API e utiliza a classe `Pokemon` para estruturar os dados, também instancia a classe `Filmes`.
+- `bin/main.dart`: O arquivo principal do programa. Ele consome a API e utiliza a classe `Pokemon` para estruturar os dados, também instancia a classe `Filmes` e classe `País`.
 - `models/pokemon_model.dart`: O arquivo que contém a definição da classe `Pokemon`.
 - `models/filmes_model.dart`: O arquivo que contém a definição da classe `Filmes`.
 - `models/pais_model.dart`: O arquivo que contém a definição da classe `País`.
