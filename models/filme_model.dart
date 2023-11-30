@@ -1,4 +1,4 @@
-class Filmes {
+class Filme {
   bool adult;
   String backdrop_path;
   int id;
@@ -13,7 +13,7 @@ class Filmes {
   double vote_average;
   int vote_count;
 
-  Filmes(this.adult, this.backdrop_path, this.id, this.original_language, this.original_title, this.overview, this.popularity ,this.poster_path, this.release_date, this.title, this.video, this.vote_average, this.vote_count);
+  Filme(this.adult, this.backdrop_path, this.id, this.original_language, this.original_title, this.overview, this.popularity ,this.poster_path, this.release_date, this.title, this.video, this.vote_average, this.vote_count);
 
   @override
   String toString() {
