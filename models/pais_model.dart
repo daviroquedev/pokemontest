@@ -33,6 +33,9 @@ class Pais{
   
   Pais.fromJsonMock() : this.fromJson(MockPais.jsonPais);
 
+  /// O uso de três apóstrofos (''') é uma convenção do Dart para permitir strings de várias linhas. 
+  /// Isso permite criar uma string que abrange várias linhas sem de quebras de linha.
+  /// Quando você define uma string entre três apóstrofos ('''), pode escrever múltiplas linhas sem precisar escapar caracteres especiais.
   @override
   String toString() {
     return '''
